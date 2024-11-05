@@ -1,6 +1,6 @@
 ---
-
-## sidebar\_position: 3
+sidebar_position: 3
+---
 
 # Create a Blog Post
 
