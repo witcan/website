@@ -9,7 +9,12 @@ Docusaurus creates a **[page for each blog post](https://www.baidu.com)**, but a
 
 Create a file at `blog/2021-02-28-greetings.md`:
 
-测试更新内容
+测试更新内容123
+
+# asdsadas
+
+
+![](assets/20241105_181704_team-2.png)
 
 ![](assets/20241105_175444__.webp)
 
