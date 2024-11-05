@@ -1,4 +1,4 @@
-***
+---
 
 ## sidebar\_position: 3
 
@@ -9,6 +9,9 @@ Docusaurus creates a **[page for each blog post](https://www.baidu.com)**, but a
 ## Create your first Post
 
 Create a file at `blog/2021-02-28-greetings.md`:
+
+
+![](assets/20241105_175444__.webp)
 
 ```md
 ---
